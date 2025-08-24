@@ -8,6 +8,7 @@ from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 import sqlite3
 
+
 # Load environment variables for API keys
 load_dotenv(dotenv_path='../.env')
 
